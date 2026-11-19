@@ -1,0 +1,9 @@
+{
+  "name": "numeira.ndmf-manual-bake-assets",
+  "displayName": "NDMF Manual Bake Assets",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "author": "Numeira",
+  "url": "https://github.com/Rerigferl/ndmf-manual-bake-assets",
+  "description": "Changes the output location of Manual Bake to a subdirectory within this package."
+}
